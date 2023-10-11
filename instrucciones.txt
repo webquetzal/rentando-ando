@@ -17,7 +17,7 @@ Como primer objetivo se creara una pagina donde se visualise
 
             /DEPARTAMENTOS/
 Departamentos en renta tendra la variedad de todos los departamentos en renta
-se mostraran de manera deinamica con el objetivo de ver un mapa de mexico dividido en estados,
+se mostraran de manera dinamica con el objetivo de ver un mapa de mexico dividido en estados,
  estados divididos en municipios delegaciones o lo que se que se llamen. y ya sea que dejen una ubicacion aproximada o una ubicacion fija.
 
 se podra ir cliqueando para ampliar el mapa y reducir las ubicaciones.
