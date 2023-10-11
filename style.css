@@ -1,0 +1,41 @@
+body{
+    background-color: #ffffff;
+}
+header{
+    background-color: #9EDDFF;
+    padding: .1%;
+    margin: 0%;
+    text-align: center;
+    font-style: italic;
+}
+nav{
+    padding: 5px;
+    text-align: right;
+    background-color: #A6F6FF;
+}
+a{
+    padding: .5%;
+}
+
+.omv {
+    
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.omv div{
+    background-color: rgb(243, 243, 243);
+}
+
+.omv h2 {   
+    text-align: center;
+    background-color: #A6F6FF;
+    margin-left: 0%;
+    margin-right: 0%;
+
+}
+.omv h4 {
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+    padding-bottom: 20px;
+}
