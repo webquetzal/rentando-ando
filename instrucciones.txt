@@ -1,0 +1,26 @@
+Como primer objetivo se creara una pagina donde se visualise 
+*titulo
+menu(inicio, departamentos en renta, noticias)
+//
+el inicio se compondra de los "servicios que se ofrecen" objetivo, mision, vicion.
+imagenes de gente rentando y buscando renta xD
+
+pie depagina 
+//
+departamentos en renta tendra la variedad de todos los departamentos en renta
+se mostraran de manera deinamica con el objetivo de ver un mapa de mexico dividido en estados,
+ estados divididos en municipios delegaciones o lo que se que se llamen. y ya sea que dejen una ubicacion aproximada o una ubicacion fija.
+
+se podra ir cliqueando para ampliar el mapa y reducir las ubicaciones.
+
+(propuesta)se podra proponer una cantidad y los de rentas podran aceptarla 
+ejemplo.:( usuario1 quiere rentar en la delegacion cuauhtemoc pero cuenta con 6000 pesos. ) la notificacion llegaria a todos los que rentan y podran realizar una propuesta.
+//
+necesitamos tener un apartado para que puedan subir propuestas de renta. (dando 2 ejemplos)
+1ro.- una persona ve una renta la sube (seria mejor que la ubicacion sea precisa)
+2do.- una persona ofrece en renta un area.(la ubicacion ellos la eligen si es especifica o no)
+
+diferentes tipos de rentas 
+(inmuebles)
+departamento casa local 
+
