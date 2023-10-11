@@ -1,13 +1,22 @@
-Como primer objetivo se creara una pagina donde se visualise 
-*titulo
-menu(inicio, departamentos en renta, noticias)
-//
-el inicio se compondra de los "servicios que se ofrecen" objetivo, mision, vicion.
-imagenes de gente rentando y buscando renta xD
+*LISTO
+#FALTA O REVISAR
 
-pie depagina 
-//
-departamentos en renta tendra la variedad de todos los departamentos en renta
+Como primer objetivo se creara una pagina donde se visualise 
+
+            /Inicio/
+*TITULO*
+*menu* (INICIO//DEPARTAMENTO//NOTICIAS)
+
+*El inicio se compondra de los "servicios que se ofrecen"
+*objetivo, mision, vicion.
+
+#imagenes de gente rentando y buscando renta xD
+
+#PIE DE PAGINA
+#No se que poner aqui
+
+            /DEPARTAMENTOS/
+Departamentos en renta tendra la variedad de todos los departamentos en renta
 se mostraran de manera deinamica con el objetivo de ver un mapa de mexico dividido en estados,
  estados divididos en municipios delegaciones o lo que se que se llamen. y ya sea que dejen una ubicacion aproximada o una ubicacion fija.
 
