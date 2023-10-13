@@ -1,13 +1,38 @@
-body{
-    background-color: #ffffff;
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Urbanist:wght@200;400&display=swap');
+
+
+:root {
+    --main-color: #66B4EF;
+    --navbar-color: #9EDDFF;
+    --title-color: #ffff;
+
+    --title-font: 'Lilita One', sans-serif;
+    --text-font: 'Urbanist', sans-serif;
 }
+
+body{
+    font-family: var(--text-font);
+}
+
+* {
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 header{
-    background-color: #9EDDFF;
-    padding: .1%;
-    margin: 0%;
+    background-color: var(--main-color);
+    display: grid;
+    align-items: center;
+    height: 30vh;
     text-align: center;
-    font-style: italic;
-    box-shadow: 2px 2px lightblue;
+    font-family: var(--title-font);
+    color: var(--title-color);
+}
+
+header h1{
+    margin: 0;
+    font-size: 5rem;
 }
 nav{
     padding: 5px;
